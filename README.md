@@ -5,8 +5,9 @@ I graduated from Atatürk University Computer Engineering Department. I work as 
 
 ---
 
-Technologies
+### Technologies
 
+<span>
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Spring Logo" width="50" height="50"/> 
@@ -23,12 +24,12 @@ Technologies
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo" width="50" height="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt=".Net Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Spring Logo" width="50" height="50"/> 
-
+</span>
 
 ---
-Tools
+### Tools
 
-
+<span>
 <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Spring Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="Spring Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Spring Logo" width="50" height="50"/> 
@@ -37,6 +38,7 @@ Tools
 <img src="https://cdn.worldvectorlogo.com/logos/pycharm-1.svg" alt="Spring Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Spring Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Spring Logo" width="50" height="50"/> 
+</span>
 
 ---
 <!-- workflows https://ichi.pro/tr/kickass-github-profil-sayfasi-nasil-olusturulur-87625390734948 -->
